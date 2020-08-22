@@ -1,0 +1,24 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "building a chat app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gittest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "js-sha256": "^0.9.0",
+    "jwt-then": "^1.0.1",
+    "mongoose": "^5.9.21",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {}
+}
